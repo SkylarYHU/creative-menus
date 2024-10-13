@@ -5,12 +5,10 @@ This project demonstrates two different types of hover animations applied to nav
 ## Features
 
 1. **Menu 1**:
-
 * Simple horizontal navigation menu.
 * Hover effect reveals an animated underline, with lines extending from the left and right edges.
 
 2. **Menu 2**:
-
 * Navigation menu with animated corner borders.
 * Hover effect reveals animated white corner boxes, which grow and fade into view.
 
